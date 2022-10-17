@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 82.0, 88.0, 2188.0, 1260.0 ],
+		"rect" : [ 39.0, 105.0, 1408.0, 833.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -46,7 +46,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 491.5, 361.5, 24.0, 24.0 ]
+					"patching_rect" : [ 352.5, 193.5, 24.0, 24.0 ]
 				}
 
 			}
@@ -177,7 +177,7 @@
  ]
 					}
 ,
-					"patching_rect" : [ 491.5, 399.5, 92.0, 22.0 ],
+					"patching_rect" : [ 352.5, 231.5, 92.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"description" : "",
 						"digest" : "",
@@ -197,7 +197,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 187.0, 312.5, 24.0, 24.0 ]
+					"patching_rect" : [ 48.0, 144.5, 24.0, 24.0 ]
 				}
 
 			}
@@ -328,7 +328,7 @@
  ]
 					}
 ,
-					"patching_rect" : [ 338.5, 399.5, 92.0, 22.0 ],
+					"patching_rect" : [ 199.5, 231.5, 92.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"description" : "",
 						"digest" : "",
@@ -347,7 +347,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 338.5, 361.5, 69.0, 22.0 ],
+					"patching_rect" : [ 199.5, 193.5, 69.0, 22.0 ],
 					"text" : "randomtext"
 				}
 
@@ -479,7 +479,7 @@
  ]
 					}
 ,
-					"patching_rect" : [ 187.0, 394.75, 92.0, 22.0 ],
+					"patching_rect" : [ 48.0, 226.75, 92.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"description" : "",
 						"digest" : "",
@@ -498,7 +498,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 187.0, 362.0, 98.0, 22.0 ],
+					"patching_rect" : [ 48.0, 194.0, 98.0, 22.0 ],
 					"text" : "\"I am in the poly\""
 				}
 
@@ -509,7 +509,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 3,
 					"numoutlets" : 0,
-					"patching_rect" : [ 185.5, 434.25, 325.0, 22.0 ],
+					"patching_rect" : [ 46.5, 266.25, 325.0, 22.0 ],
 					"text" : "poly~ gltext_poly 100 @parallel 1"
 				}
 
@@ -522,7 +522,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 226.25, 230.5, 24.0, 24.0 ]
+					"patching_rect" : [ 87.25, 62.5, 24.0, 24.0 ]
 				}
 
 			}
@@ -533,7 +533,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 3,
 					"outlettype" : [ "jit_matrix", "bang", "" ],
-					"patching_rect" : [ 226.25, 272.25, 177.0, 22.0 ],
+					"patching_rect" : [ 87.25, 104.25, 177.0, 22.0 ],
 					"text" : "jit.world randomtext @floating 1"
 				}
 
@@ -615,7 +615,7 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "gltext_poly.maxpat",
-				"bootpath" : "~/Desktop/textpoly",
+				"bootpath" : "~/Desktop/Streaming/textpoly",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
